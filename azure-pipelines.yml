@@ -5,7 +5,6 @@
 
 trigger: 'none' # will disable CI builds entirely
     
-container:
 pool:
   vmImage: ubuntu-latest
 
